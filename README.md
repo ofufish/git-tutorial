@@ -1,5 +1,3 @@
 #Git tutorial
 
--feature-A
-
--future
+-fix-B
